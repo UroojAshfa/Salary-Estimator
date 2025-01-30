@@ -25,10 +25,30 @@ It estimates a person's salary based on input features such as **credit score, a
 
 ---
 
+
+
 🛠 Technologies Used:
 
 Python 🐍
+
 TensorFlow 🤖
+
 Scikit-Learn 📊
+
 Pandas & NumPy 🔢
-Streamlit 🌐
+
+
+## 📦 Installation  
+### **1️⃣ Clone the Repository**  
+```sh
+git clone https://github.com/UroojAshfa/Salary-Estimator.git
+cd Salary-Estimator
+
+ ### **2️⃣ Install Dependencies**
+```sh
+pip install -r requirements.txt
+
+
+### **3️⃣ Run the Streamlit App**
+```sh
+streamlit run app.py

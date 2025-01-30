@@ -17,7 +17,16 @@ It estimates a person's salary based on input features such as **credit score, a
 
 ---
 
-🛠 Technologies Used
+🎯 How It Works
+1️⃣ User inputs data (Credit Score, Age, Balance, etc.).
+2️⃣ The ANN model processes the input using pre-trained weights.
+3️⃣ The app predicts an estimated salary.
+4️⃣ The predicted salary is displayed in the UI.
+
+---
+
+🛠 Technologies Used:
+
 Python 🐍
 TensorFlow 🤖
 Scikit-Learn 📊

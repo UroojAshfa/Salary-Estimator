@@ -43,11 +43,12 @@ Pandas & NumPy 🔢
 ```sh
 git clone https://github.com/UroojAshfa/Salary-Estimator.git
 cd Salary-Estimator
+```
 
  ### **2️⃣ Install Dependencies**
 ```sh
 pip install -r requirements.txt
-
+```
 
 ### **3️⃣ Run the Streamlit App**
 ```sh
